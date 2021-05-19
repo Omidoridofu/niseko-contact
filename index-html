@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>Niseko-Ryugaku</title>
+        <link rel="stylesheet" href="niseko-contact-l.css">
+        <link rel="stylesheet" href="niseko-contact-s.css">
+        <meta name="viewport"　content="width=device-width, initial-scale=1.0">
+        <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+
+        
+    </head>
+    <body>
+        <header>
+            <div id="header1">
+                <img src="niseko-logo.png" alt="#" class="niseko-top-logo">
+                <div class="header-tell-s">
+                    <h1><img src="電話の受話器のアイコン素材.png" alt="#"> 000-0000-0000</h1>
+                </div>
+                    
+                
+                
+                <div class="header-btn-ct header-btn-l">
+                    <div class="header-tell-ct">
+                        <h1><img src="電話の受話器のアイコン素材.png" alt="#"> 000-0000-0000</h1>
+                    </div>
+                    <div class="line-btn btn-indi">
+                        
+                        <img src="line.jpg" alt="#">
+                        <a href="https://lin.ee/WOx7RD0"></a>
+                        <h1>LINEで留学相談</h1>
+                        
+                    </div>
+                    <div class="download-btn btn-indi">
+                        <img src="パンフレット・資料の無料アイコン素材 1.jpg" alt="#">
+                        <a href="#"></a>
+                        <h1>無料で資料ダウンロード</h1>
+                    </div>
+                </div>
+                
+            </div>
+            <div id="header-2">
+                <ul id="nav-bar3">
+                    <li><a href="#">ニセコ留学って何？</a></li>
+                    <li><a href="#">留学体験談</a></li>
+                    <li><a href="#">Q&A</a></li>
+                    <li><a href="#">お問い合わせ</a></li>
+                </ul>
+            </div>
+            <!-- スマホ -->
+            <section class="header__inner">
+            
+                <div class="overlay" id="js-overlay"></div>
+                <div class="hamburger" id="js-hamburger">
+                  <span class="hamburger__lineTop"></span>
+                  <span class="hamburger__lineCenter"></span>
+                  <span class="hamburger__lineBottom"></span>
+                </div>
+                <div class="sideMenu">
+            
+            
+                      <div class="menu-indi">
+                        <a href="#" class="menu-img-a">ニセコ留学って何？</a><br>
+                      </div>
+                      <hr>
+                      <div class="menu-indi">
+                        <a href="#" class="menu-img-a">留学体験談</a><br>
+                      </div>
+                      <hr>
+                      <div class="menu-indi">
+                        <a href="#" class="menu-img-a">Q&A</a><br>
+                      </div>
+                      <hr>
+                      <div class="menu-indi">
+                        <a href="#" class="menu-img-a">お問い合わせ</a><br>
+                      </div>
+
+                      <div class="header-btn-ct">
+                        
+                        <div class="line-btn btn-indi">
+                            
+                            <img src="line.jpg" alt="#">
+                            <a href="https://lin.ee/WOx7RD0"></a>
+                            <h1>LINEで留学相談</h1>
+                            
+                        </div>
+                        <div class="download-btn btn-indi">
+                            <img src="パンフレット・資料の無料アイコン素材 1.jpg" alt="#">
+                            <a href="#"></a>
+                            <h1>無料で資料ダウンロード</h1>
+                        </div>
+                      </div>
+                      
+            
+            
+                </div>
+                </section>
+                <!-- /スマホ -->
+        </header>
+        <div id="contact-main">
+            <h1 id="contact-top-h1">お問い合わせ</h1>
+            <p id="contact-top-p">ご興味・ご質問がある方、最新情報のアップデートをいち早くお知りになりたい方は<br>下記の公式LINEアカウントかご質問フォームからお気軽にお問い合わせくださいませ。</p>
+            
+            <div id="contact-left">
+                <div class="contact-left-1">
+                    <p>Tell</p>
+                    <a href="#">000-0000-0000</a><br><br>
+                    <p>E-Mail</p>
+                    <a href="#">info@nisekoryugaku.com</a>
+                </div>
+                <div class="contact-left-2">
+                    <h1>LINEでお問い合わせ</h1>
+                    <img src="S__340918301.jpg" alt="#">
+                    <a href="https://lin.ee/WOx7RD0">@niseko_e</a>
+                </div>
+                
+            </div>
+            <div id="contact-right">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjm53xwtx-MaIW_SOu0I_Q6msGzMGfqTmYV3LlgXo8jlJ7Kw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" class="google-form">読み込んでいます…</iframe>
+                
+            </div>
+        </div>
+        
+    </body>
+    <footer>
+        <div class="footer-ct">
+            <div class="footer-1">
+              <h1>メニュー</h1>
+              <a href="#">ホーム</a><br>
+              <a href="#">ニセコ留学って何？</a><br>
+              <a href="#">年代・目的から探す</a><br>
+              <a href="#">留学体験談</a><br>
+              <a href="#">ブログ</a><br>
+              <a href="#">お問い合わせ</a>
+            </div>
+            <div class="footer-2">
+              <h1>SNS</h1>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-line"></i></a>
+            </div>
+            <div class="footer-3">
+              <img src="スクリーンショット 2021-04-26 11.40.10.jpg" alt="#">
+              <p>000-0000-0000</p>
+            </div>
+          </div>
+          <p class="footer-last">当Webサイトに掲載されている全ての画像・文章・情報等は著作権により保護されております。著作権者の許可なく当Webサイトの内容の全て又は一部をいかなる手段においても複製・転載・流用・転売・複写等することを固く禁じます。</p>
+        
+    </footer>
+    <script>
+        function toggleNav() {
+    const body = document.body;
+    const hamburger = document.getElementById("js-hamburger");
+    const overlay = document.getElementById("js-overlay");
+    hamburger.addEventListener("click", function () {
+      body.classList.toggle("nav-open");
+    });
+    overlay.addEventListener("click", function () {
+      body.classList.remove("nav-open");
+    });
+    }
+  
+    toggleNav();
+    </script>
+    
+</html>
